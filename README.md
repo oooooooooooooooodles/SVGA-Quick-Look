@@ -7,7 +7,7 @@
 > 在 Finder 里不打开任何软件，就能看到 SVGA 动画的实时缩略图；按一下空格键，立刻播放预览——轻点即见的动效体验，让每个动画文件都活起来。
 
 <div align="center">
-  <img src="/material/Screenshot.png" width="100%" alt="SVGA Quick Look">
+  <img src="/material/Screenshot.png" width="300" alt="SVGA Quick Look">
 </div>
 
 
