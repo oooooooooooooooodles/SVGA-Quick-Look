@@ -1,6 +1,15 @@
 # SVGA Quick Look
 
+<div align="center">
+  <img src="/material/svga logo.png" width="128" alt="SVGA Quick Look">
+</div>
+
 > 在 Finder 里不打开任何软件，就能看到 SVGA 动画的实时缩略图；按一下空格键，立刻播放预览——轻点即见的动效体验，让每个动画文件都活起来。
+
+<div align="center">
+  <img src="/material/Screenshot.png" width="100%" alt="SVGA Quick Look">
+</div>
+
 
 SVGA Quick Look 是专为 [SVGA](https://github.com/svga/SVGAPlayer-iOS) 动画格式打造的 macOS 原生工具，由 **Finder 缩略图扩展**、**Quick Look 空格预览扩展** 和 **播放器主程序** 三部分组成，全部基于 SVGAPlayer-iOS 渲染逻辑移植，零第三方依赖、完全自包含（Swift 实现）。
 
