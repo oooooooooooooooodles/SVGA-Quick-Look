@@ -1,0 +1,81 @@
+{
+  "color-space-for-untagged-svg-colors" : "display-p3",
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.99339,0.99339,0.99339,1.00000",
+      "display-p3:0.93725,0.94118,0.99608,1.00000"
+    ],
+    "orientation" : {
+      "start" : {
+        "x" : 0.5,
+        "y" : 1
+      },
+      "stop" : {
+        "x" : 0.5,
+        "y" : 0.3
+      }
+    }
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "fill" : "none",
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "Group 1410091140.svg",
+          "name" : "Group 1410091140",
+          "opacity" : 0.9,
+          "position" : {
+            "scale" : 2.2,
+            "translation-in-points" : [
+              105.237060546875,
+              -30.0191650390625
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "fill-specializations" : [
+            {
+              "value" : "none"
+            },
+            {
+              "appearance" : "dark",
+              "value" : "none"
+            },
+            {
+              "appearance" : "tinted",
+              "value" : "none"
+            }
+          ],
+          "glass" : false,
+          "hidden" : false,
+          "image-name" : "Polygon 13.svg",
+          "name" : "Polygon 13",
+          "opacity" : 1,
+          "position" : {
+            "scale" : 2.2,
+            "translation-in-points" : [
+              32.873931884765625,
+              25.05816650390625
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : [
+      "macOS"
+    ]
+  }
+}
